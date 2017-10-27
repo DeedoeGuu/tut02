@@ -6,4 +6,4 @@ def foo(int1, int2):
     else: return ("talha")
 
 print(foo(5,4))
-print("julian is a fatboi")
+print("julian is a skinnyboi")
